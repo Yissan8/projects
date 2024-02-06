@@ -1,9 +1,4 @@
-#TP3 Produits DÃ©rivÃ©s
 
-#Equipe : Harold Herbert Nonguierma - 11229979 ; Bochra Rabaa - 11285961 ; Idriss Wanassy - 11237451 ; Yissan Yaro - 11222222
-
-
-#La premiÃ¨re partie de ce fichier jusqu'Ã  la ligne reproduit exactement le fichier variance_risk donnÃ© par M. Dorion
 
 
 import numpy as np
