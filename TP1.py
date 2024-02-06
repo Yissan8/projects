@@ -1,7 +1,5 @@
 
-# # TP 1 : FINA60206 - Produits DÃ©rivÃ©s - 11/02/2022
-#     Idriss Wannassy - 11237451
-#     Yissan Yaro     - 11222222
+
 
 
 
