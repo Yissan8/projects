@@ -1,14 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
 
-# TP2 Produits Dérivés
-
-#Equipe : 
-#Harold Herbert Nonguierma - 11229979 
-#Idriss Wanassy  - 11237451
-#Yissan  Yaro - 11222222
-
-# Importation des librairies 
 
 # In[473]:
 
